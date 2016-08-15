@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: #591c37;
+}
+h1, h2, h3, h4, h5, h6, p {
+    color: white;
+    margin: 0 0 0 0;
+}
+#top{
+    margin: 20px 0 0 20px;
+    background-color: #591c37;
+}
+#leftSide {
+    float: left;
+    background-color: crimson;
+    margin: 15px 0 0 20px;
+    height: 500px;
+    width: 500px;
+}
+#rightSide {
+    float: left;
+    background-color: crimson;
+    margin: 15px 20px 0 0;
+    height: 500px;
+    width: 500px;
+}
+#center {
+    float: left;
+    height: 500px;
+    width: 20px;
+    background-color: black;
+    margin: 15px 0 0 0;
+}
+img {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+}
+
